@@ -1,4 +1,4 @@
-# dhyuti
+# dhyuti (This page is a work in progress)
 This github repository serves as a portfolio website for Ms. Nimmagadda Sree Dhyuti
 
 <h1 align="center">Hi , I'm Dhyuti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
